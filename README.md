@@ -1,3 +1,4 @@
 # python-start
 This is my newest python repo.
-# please Support
+# please support
+first lets create main.py.
